@@ -38,8 +38,6 @@
     <div class="icons">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python">
     </div>
-    <h2>📈 Estatísticas do GitHub</h2>
-    <img src="https://github-readme-stats.vercel.app/api?ranixx1&show_icons=true&theme=radical" alt="GitHub Stats">
     <h2>📫 Contato</h2>
     <p>📧 Email: ranilton207@gmail.com</p>
     <p>🔗 <a href="https://www.linkedin.com/in/ranilton/">LinkedIn</a></p>
