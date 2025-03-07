@@ -26,6 +26,8 @@
     <h3>🐍 Backend</h3>
     <div class="icons">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" widht= "36" height= "36" alt="Python">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" widht= "36" height= "36" alt="Node.js">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" widht= "36" height= "36" alt="PHP">
     </div>
     <h3>🗄️ Banco de Dados</h3>
     <div class="icons">
