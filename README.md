@@ -6,8 +6,8 @@
 <body>
     <h2>🚀 Sobre Mim</h2>
     <h2> Nome: Ranilton Costa de lima
-    </h2><h2>Idade:19 anos 
-    </h2><h2>Sexo: Masculino
+    </h2><h2>Idade:19 anos
+    <h2>gosto de xereca e maconha
     </h2><h2>Estado: Rio Grande do Norte
     </h2><h2>Profissão: Estudante/desenvolvedor
     <h2>Cursando Análise e desenvolvimento de sistemas pelo IFRN
