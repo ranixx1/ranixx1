@@ -10,7 +10,7 @@
     </h3><h3>Estado: Rio Grande do Norte
     </h3><h3>Profissão: Estudante/desenvolvedor
     <h3>Cursando Análise e desenvolvimento de sistemas pelo IFRN
-    <h3> Técnico em informática para Internet pelo IFRN
+    <h3> Técnico em informática para Internet pelo IFRN<h3>
     <p>Sou um desenvolvedor altamente motivado e entusiasta da tecnologia, especializado em desenvolvimento web e backend. Possuo experiência com diversas tecnologias, incluindo HTML, CSS, JavaScript, Python, React, Banco de Dados e XML, e estou sempre em busca de novas soluções inovadoras para aprimorar a experiência digital</p>
     <h2>🛠️ Tecnologias e Ferramentas</h2>
     <h3>🌐 Frontend</h3>
