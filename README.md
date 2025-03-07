@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <body>
     <h2>🚀 Sobre Mim</h2>
-    <h3aa> Nome: Ranilton Costa de lima
+    <h3> Nome: Ranilton Costa de lima
     </h3><h3>Idade:19 anos
     </h3><h3>Estado: Rio Grande do Norte
     </h3><h3>Profissão: Estudante/desenvolvedor
