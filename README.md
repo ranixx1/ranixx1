@@ -4,9 +4,15 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <body>
-    <h1>📌 Meu README Personalizado</h1> 
     <h2>🚀 Sobre Mim</h2>
-    <p>Olá! Eu sou um desenvolvedor apaixonado por tecnologia e programação. Meu foco principal é o desenvolvimento web e backend, utilizando tecnologias como HTML, CSS, JavaScript, Python e React.</p>
+    <h2> Nome: Ranilton Costa de lima
+    </h2><h2>Idade:19 anos 
+    </h2><h2>Sexo: Masculino
+    </h2><h2>Estado: Rio Grande do Norte
+    </h2><h2>Profissão: Estudante/desenvolvedor
+    <h2>Cursando Análise e desenvolvimento de sistemas pelo IFRN
+    <h2> Técnico em informática para Internet pelo IFRN
+    <p>Sou um desenvolvedor altamente motivado e entusiasta da tecnologia, especializado em desenvolvimento web e backend. Possuo experiência com diversas tecnologias, incluindo HTML, CSS, JavaScript, Python, React, Banco de Dados e XML, e estou sempre em busca de novas soluções inovadoras para aprimorar a experiência digital</p>
     <h2>🛠️ Tecnologias e Ferramentas</h2>
     <h3>🌐 Frontend</h3>
     <div class="icons">
