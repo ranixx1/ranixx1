@@ -27,9 +27,9 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" widht= "36" height= "36" alt="MySQL">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" widht= "36" height= "36" alt="PostgreSQL">
     </div>
-    <h3>📌 UML</h3>
+    <h3>📌 XML</h3>
     <div class="icons">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/14/UML_logo.svg" alt="UML" widht= "36" height= "36">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xml/xml-original.svg" alt="XML" widht= "36" height= "36">
     </div>
     <h2>📫 Contato</h2>
     <p>📧 Email: ranilton207@gmail.com</p>
