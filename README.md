@@ -12,7 +12,7 @@
 
 ## Frameworks
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width=36 height=36 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-original.svg" widht=36 height=36 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width=36 height=36 />
 
 ## Banco de dados
 
