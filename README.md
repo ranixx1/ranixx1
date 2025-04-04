@@ -1,8 +1,8 @@
-# Opa! me chamo Ranilton! 
+
 
 :beginner: Aluno do IFRN, cursando TADS
 
-:earth_americas: Morando em São Paulo do potengi, RN
+:earth_americas: Parnamirim, RN
 
 :e-mail: Entre em contato comigo por [e-mail](mailto:ranilton0706@gmail.com)
 
@@ -22,9 +22,6 @@
 
 ###### Sistema operacional
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" width=36 height=36 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" width=36 height=36 />
-
-###### Design
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width=36 height=36 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width=36 height=36 />
 
 
 ## Social
