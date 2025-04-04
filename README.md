@@ -18,7 +18,6 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width=36 height=36 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width=36 height=36 />
 
-## Habilidades
 
 ## Social
 
