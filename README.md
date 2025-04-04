@@ -20,10 +20,6 @@
 
 ## Habilidades
 
-###### Sistema operacional
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" width=36 height=36 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" width=36 height=36 />
-
-
 ## Social
 
 <a href="http://www.instagram.com/ranilton_c" target="_blank">
