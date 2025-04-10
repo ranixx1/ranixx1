@@ -4,7 +4,6 @@
 
 :earth_americas: Parnamirim, RN
 
-:e-mail: Entre em contato comigo por [e-mail](mailto:ranilton0706@gmail.com)
 
 ## Linguagens
 
@@ -17,19 +16,6 @@
 ## Banco de dados
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width=36 height=36 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width=36 height=36 />
-
-
-## Social
-
-<a href="http://www.instagram.com/ranilton_c" target="_blank">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="36" height="36" alt="Instagram">
-</a> 
-
-## Informações
-<p> 
-  <img src="https://komarev.com/ghpvc/?username=ranixx1&label=Profile%20views&color=0e75b6&style=flat" alt="Ranilton" />
-</p>
-
 
 
 <html lang="pt-br">
