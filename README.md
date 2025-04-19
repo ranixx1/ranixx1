@@ -9,7 +9,6 @@
   <img src="https://img.icons8.com/color/2x/css3.png" width="120" alt="CSS3">
   <img src="https://static.vecteezy.com/system/resources/previews/027/127/560/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" width="120" alt="JavaScript">
   <img src="https://img.icons8.com/color/2x/bootstrap.png" width="120" alt="Bootstrap">
-  <img src="https://raw.githubusercontent.com/supabase/supabase/master/packages/common/assets/images/supabase-logo-icon.png" width="120" alt="Supabase">
   <img src="https://img.icons8.com/color/2x/python.png" width="120" alt="Python">
 </table>
 
