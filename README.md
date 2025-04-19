@@ -9,6 +9,8 @@
   <img src="https://img.icons8.com/color/2x/css3.png" width="120" alt="CSS3">
   <img src="https://static.vecteezy.com/system/resources/previews/027/127/560/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" width="120" alt="JavaScript">
   <img src="https://img.icons8.com/color/2x/bootstrap.png" width="120" alt="Bootstrap">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-ruby-3628959-3030165.png" width="120" alt="Ruby">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-java-60-1174953.png" width="120" alt="Java">
 </table>
 
 <div> 
