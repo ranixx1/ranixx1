@@ -25,7 +25,6 @@
   <img src="https://img.icons8.com/color/2x/python.png" width="60" title="Python"/>
   <img src="https://img.icons8.com/color/2x/django.png" width="60" title="Django"/>
   <img src="https://img.icons8.com/color/2x/nodejs.png" width="60" title="Node.js"/>
-  <img src="https://img.icons8.com/color/2x/postgresql.png" width="60" title="PostgreSQL"/>
   <img src="https://img.icons8.com/color/2x/linux.png" width="60" title="Linux"/>
 
 </div>
