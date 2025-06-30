@@ -4,13 +4,11 @@
 <!-- GitHub Stats -->
 
 <div align="center">
-  <h2>🚀 Minhas Estatísticas no GitHub</h2>
-  <p>Confira um resumo do meu progresso e atividade no GitHub:</p>
 
   <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=ranixx1&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ranixx1's GitHub Stats" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ranixx1&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ranixx1's Top Languages" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ranixx1&layout=compact&langs_count=10&theme=tokyonight&locale=pt-br&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ranixx1's Top Languages" /></td>
   </tr>
 </table>
 <!-- Tecnologias -->
