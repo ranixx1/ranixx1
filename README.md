@@ -18,10 +18,5 @@
   <img src="https://img.icons8.com/color/2x/html-5.png" width="60" title="HTML5"/>
   <img src="https://img.icons8.com/color/2x/css3.png" width="60" title="CSS3"/>
   <img src="https://static.vecteezy.com/system/resources/previews/027/127/560/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" width="60" title="JavaScript"/>
-  <img src="https://img.icons8.com/color/2x/bootstrap.png" width="60" title="Bootstrap"/>
   <img src="https://img.icons8.com/color/2x/python.png" width="60" title="Python"/>
-  <img src="https://img.icons8.com/color/2x/django.png" width="60" title="Django"/>
-  <img src="https://img.icons8.com/color/2x/nodejs.png" width="60" title="Node.js"/>
-  <img src="https://img.icons8.com/color/2x/linux.png" width="60" title="Linux"/>
-
 </div>
