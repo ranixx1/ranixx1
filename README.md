@@ -8,8 +8,6 @@
 </div>
 
 <div align="center"><br>
-
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png" width="60" title="React" />
   
     <img src="https://img.icons8.com/color/2x/html-5.png" width="60" title="HTML5"/>
     
