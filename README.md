@@ -4,7 +4,7 @@
 ---
 <div align="center">
   
-## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Hello, world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Eu sou Rani Costa
+## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Hello, world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Eu sou Ranilton
  💻 Desenvolvedor em constante evolução, apaixonado por tecnologia e soluções criativas.<br>
  📚 Atualmente estudando Python, JavaScript, Java, React, Next.js( e angular), Django e pandas.<br>
  🎯 Objetivo: Tornar-me um programador versátil e confiante.<br>
