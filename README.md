@@ -1,46 +1,43 @@
-<div align="center">
-  <h1>👋 Olá, eu sou Rani — Bem-vindo(a)!</h1>
-  <p>
-    💻 Desenvolvedor em constante evolução | Apaixonado design funcional e estrutura de dados<br>
-    🌱 Atualmente explorando Python, JavaScript, Java, React, Next.js, Django & java <br>
-    🎯 Objetivo: Me tornar um programador confiante e versátil
-  </p>
-</div>
+<!-- Parte superior da página -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=header"/>
 
 ---
-
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ranixx1&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Estatísticas do GitHub de ranixx1" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranixx1&layout=compact&langs_count=10&theme=tokyonight&locale=en&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Linguagens mais usadas por ranixx1" />
+  
+## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Hello, world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Eu sou Rani Costa
+ 💻 Desenvolvedor em constante evolução, apaixonado por tecnologia e soluções criativas.<br>
+ 📚 Atualmente estudando Python, JavaScript, Java, React, Next.js( e angular), Django e pandas.<br>
+ 🎯 Objetivo: Tornar-me um programador versátil e confiante.<br>
 </div>
 
----
-
-### 🛠️ Tecnologias & Ferramentas
-
 <div align="center">
-  <img src="https://img.icons8.com/color/48/html-5--v1.png" width="60" alt="HTML5" title="HTML5"/>
-  <img src="https://img.icons8.com/color/48/css3.png" width="60" alt="CSS3" title="CSS3"/>
-  <img src="https://static.vecteezy.com/system/resources/previews/027/127/560/original/javascript-logo-javascript-icon-transparent-free-png.png" width="60" alt="JavaScript" title="JavaScript"/>
-  <img src="https://img.icons8.com/color/48/python--v1.png" width="60" alt="Python" title="Python"/>
-  <img src="https://img.icons8.com/color/48/mysql-logo.png" width="60" alt="MySQL" title="MySQL"/>
-  <img src="https://img.icons8.com/color/48/react-native.png" width="60" alt="React" title="React"/>
-  <img src="https://img.icons8.com/color/48/tailwindcss.png" width="60" alt="Tailwind CSS" title="Tailwind CSS"/>
-  <img src="https://img.icons8.com/color/48/django.png" width="60" alt="Django" title="Django"/>
+  <a href="https://github.com/ranixx1">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ranixx1&theme=react&hide_border=false&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranixx1&theme=react&hide_border=false&layout=compact"/>
 </div>
 
----
 
-### 📫 Como me encontrar
+<!-- Distintivos de Linguagens e Habilidades -->
+<div style="display: inline_block" align="center"><br>
+  <img alt="Rani-HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">&nbsp;
+  <img alt="Rani-CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">&nbsp;
+  <img alt="Rani-JS" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">&nbsp;
+  <img alt="Rani-Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">&nbsp;
+  <img alt="Rani-Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">&nbsp;
+  <img alt="Rani-MySQL" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">&nbsp;
+  <img alt="Rani-React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">&nbsp;
+  <img alt="Rani-Next" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">&nbsp;
+  <img alt="Rani-Tailwind" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">&nbsp;
+  <img alt="Rani-Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">&nbsp;
+  <img alt="Rani-Node" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">&nbsp;
+  <img alt="Rani-Linux" src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624">&nbsp;
+  <img alt="Rani-Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">&nbsp;
+  <img alt="Rani-VSCode" src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">&nbsp;
+</div>
+<br>
 
-<div align="center">
-  <a href="mailto:ranilton0706@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" width="50" alt="Gmail" title="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ranixx1" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="50" alt="LinkedIn" title="LinkedIn"/>
-  </a>
-  <a href="https://github.com/ranixx1" target="_blank">
-    <img src="https://img.icons8.com/color/48/github--v1.png" width="50" alt="GitHub" title="GitHub"/>
-  </a>
+<!-- Contatos -->
+<div align="center"> 
+  <a href="mailto:ranilton0706@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/ranixx1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
 </div>
