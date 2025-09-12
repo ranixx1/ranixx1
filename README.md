@@ -6,7 +6,7 @@
   
 ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Hello, world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Eu sou Ranilton
  💻 Desenvolvedor em constante evolução, apaixonado por tecnologia e soluções criativas.<br>
- 📚 Atualmente estudando Python, JavaScript, Java, React, Next.js( e angular), Django e pandas.<br>
+ 📚 Atualmente estudando Python, JavaScript e java.<br>
  🎯 Objetivo: Tornar-me um programador versátil e confiante.<br>
 </div>
 
@@ -24,12 +24,9 @@
   <img alt="Rani-JS" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">&nbsp;
   <img alt="Rani-Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">&nbsp;
   <img alt="Rani-MySQL" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">&nbsp;
-  <img alt="Rani-Tailwind" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">&nbsp;
   <img alt="Rani-Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">&nbsp;
   <img alt="Rani-Node" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">&nbsp;
-  <img alt="Rani-Linux" src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624">&nbsp;
   <img alt="Rani-Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">&nbsp;
-  <img alt="Rani-VSCode" src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">&nbsp;
 </div>
 <br>
 
