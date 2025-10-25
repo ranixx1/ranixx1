@@ -5,9 +5,9 @@
 <div align="center">
   
 ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Hello, world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> i'm Ranilton
- 💻 Desenvolvedor em constante evolução.<br>
- 📚 Atualmente cursando TADS-IFRN.<br>
- 🎯 Objetivo: Tornar-me um programador versátil e confiante.<br>
+  Desenvolvedor em constante evolução(eu acho).<br>
+ Atualmente(quase desistindo) cursando TADS-IFRN.<br>
+ Tentando ser um programador versátil e confiante.<br>
 </div>
 
 <div align="center">
