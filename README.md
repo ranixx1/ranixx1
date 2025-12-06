@@ -6,11 +6,6 @@
  Tentando ser um programador versátil e confiante.<br>
 </div>
 
-<div align="center">
-  <a href="https://github.com/ranixx1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ranixx1&theme=react&hide_border=false&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranixx1&theme=react&hide_border=false&layout=compact"/>
-</div>
 
 
 <!-- Distintivos de Linguagens e Habilidades -->
