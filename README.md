@@ -1,7 +1,6 @@
 
 <div align="center">
   
-i'm Ranilton
   Desenvolvedor em constante evolução(eu acho).<br>
  Atualmente(quase desistindo) cursando TADS-IFRN.<br>
  Tentando ser um programador versátil e confiante.<br>
