@@ -2,7 +2,6 @@
 <div align="center">
   
   Desenvolvedor em constante evolução(eu acho).<br>
- Atualmente(quase desistindo) cursando TADS-IFRN.<br>
  Tentando ser um programador versátil e confiante.<br>
 </div>
 
