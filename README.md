@@ -1,8 +1,9 @@
-
 <div align="center">
   
-  Desenvolvedor em constante evolução(eu acho).<br>
- Tentando ser um programador versátil e confiante.<br>
+  それは、最初から書かれていた。  
+  <i>Sore wa, saisho kara kakarete ita.</i><br>
+  <small>It was already written from the very beginning.</small>
+  
 </div>
 
 <!-- Contatos -->
