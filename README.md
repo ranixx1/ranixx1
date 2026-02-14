@@ -1,7 +1,7 @@
 <div align="center">
   
   と書かれていました。 
-  <i>To kaka rete imashita.</i><br>
+  <br><i>To kaka rete imashita.</i><br>
   <small>maktub</small>
   
 </div>
