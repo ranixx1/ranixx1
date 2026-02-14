@@ -1,8 +1,8 @@
 <div align="center">
   
-  それは、最初から書かれていた。  
-  <i>Sore wa, saisho kara kakarete ita.</i><br>
-  <small>It was already written from the very beginning.</small>
+  と書かれていました。 
+  <i>To kaka rete imashita.</i><br>
+  <small>maktub</small>
   
 </div>
 
