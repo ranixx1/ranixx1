@@ -1,9 +1,7 @@
 <div align="center">
   
   と書かれていました。 
-  <br><i>To kaka rete imashita.</i><br>
-  <small>maktub</small>
-  
+  <br><i>Nada de tão interessante, mas espero que goste</i><br>  
 </div>
 
 <!-- Contatos -->
